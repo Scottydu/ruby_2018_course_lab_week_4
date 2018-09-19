@@ -1,0 +1,137 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/controllers/api/v1/movies_controller.rb": [
+        1,
+        1,
+        4,
+        4,
+        null,
+        null,
+        1,
+        9,
+        9,
+        3,
+        null,
+        6,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        null,
+        1,
+        9,
+        null,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/controllers/api/v1/people_controller.rb": [
+        1,
+        1,
+        0,
+        0,
+        null,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/models/movie.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        52,
+        0,
+        null,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/models/participation.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/models/person.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/lib/country.rb": [
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/serializers/api/v1/movie_serializer.rb": [
+        1,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/serializers/api/v1/person_serializer.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/serializers/api/v1/participation_serializer.rb": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/marccamaragarcia/projects/ruby_2018_course_lab_week_4/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1537348056
+  }
+}
