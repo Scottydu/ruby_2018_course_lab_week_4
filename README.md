@@ -1,6 +1,9 @@
 
 
 # README
+
+[![CircleCI](https://circleci.com/gh/mcamara/ruby_2018_course_lab_week_4.svg?style=svg)](https://circleci.com/gh/mcamara/ruby_2018_course_lab_week_4)
+
 ## Ruby on rails course week 4 example
 
 ### How did I start this project?
