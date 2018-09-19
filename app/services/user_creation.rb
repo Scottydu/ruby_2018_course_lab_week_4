@@ -12,7 +12,7 @@ class UserCreation
   end
 
   def errors
-    user&.errors
+    @user&.errors
   end
 
   def valid?
